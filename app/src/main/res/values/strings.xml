@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NVD-Autism</string>
+    <string name="social_interaction">Social interaction</string>
+    <string name="communication">Communication</string>
+    <string name="repetitive_behaviors">Repetitive behaviors / interests</string>
+    <string name="sensory">Sensory sensitivity</string>
+    <string name="executive_functions">Executive functions</string>
+</resources>
